@@ -11,3 +11,19 @@ The goal is to master algorithmic thinking, optimize code efficiency, and prepar
 
 ### 🚀 Goal
 To build a strong foundation in computer science fundamentals and write clean, efficient, and well-documented Python code.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Prajwal18py/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Prajwal18py/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Prajwal18py/DSA/tree/master/0977-squares-of-a-sorted-array) |
+<!---LeetCode Topics End-->
