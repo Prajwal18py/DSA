@@ -17,13 +17,16 @@ To build a strong foundation in computer science fundamentals and write clean, e
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prajwal18py/DSA/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal18py/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prajwal18py/DSA/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal18py/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prajwal18py/DSA/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal18py/DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
