@@ -20,6 +20,7 @@ To build a strong foundation in computer science fundamentals and write clean, e
 | [0015-3sum](https://github.com/Prajwal18py/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Prajwal18py/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Prajwal18py/DSA/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajwal18py/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal18py/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -35,4 +36,16 @@ To build a strong foundation in computer science fundamentals and write clean, e
 | [0016-3sum-closest](https://github.com/Prajwal18py/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Prajwal18py/DSA/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal18py/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajwal18py/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajwal18py/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajwal18py/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
