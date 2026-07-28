@@ -31,6 +31,7 @@ To build a strong foundation in computer science fundamentals and write clean, e
 | [0016-3sum-closest](https://github.com/Prajwal18py/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Prajwal18py/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Prajwal18py/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Prajwal18py/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal18py/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -61,6 +62,7 @@ To build a strong foundation in computer science fundamentals and write clean, e
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prajwal18py/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Prajwal18py/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Prajwal18py/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Prajwal18py/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prajwal18py/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Prajwal18py/DSA/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -73,4 +75,5 @@ To build a strong foundation in computer science fundamentals and write clean, e
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prajwal18py/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Prajwal18py/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
