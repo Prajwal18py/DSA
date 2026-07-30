@@ -21,6 +21,7 @@ To build a strong foundation in computer science fundamentals and write clean, e
 | [0016-3sum-closest](https://github.com/Prajwal18py/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Prajwal18py/DSA/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prajwal18py/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Prajwal18py/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Prajwal18py/DSA/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Prajwal18py/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal18py/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -32,6 +33,7 @@ To build a strong foundation in computer science fundamentals and write clean, e
 | [0075-sort-colors](https://github.com/Prajwal18py/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Prajwal18py/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prajwal18py/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Prajwal18py/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Prajwal18py/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal18py/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -45,6 +47,7 @@ To build a strong foundation in computer science fundamentals and write clean, e
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Prajwal18py/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Prajwal18py/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,4 +81,8 @@ To build a strong foundation in computer science fundamentals and write clean, e
 | [0141-linked-list-cycle](https://github.com/Prajwal18py/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prajwal18py/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Prajwal18py/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prajwal18py/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
