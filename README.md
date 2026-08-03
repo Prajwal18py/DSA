@@ -20,6 +20,7 @@ To build a strong foundation in computer science fundamentals and write clean, e
 | [0015-3sum](https://github.com/Prajwal18py/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Prajwal18py/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Prajwal18py/DSA/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/Prajwal18py/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prajwal18py/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Prajwal18py/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Prajwal18py/DSA/tree/master/0485-max-consecutive-ones) |
@@ -91,4 +92,8 @@ To build a strong foundation in computer science fundamentals and write clean, e
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Prajwal18py/DSA/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Prajwal18py/DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
