@@ -4,9 +4,12 @@ class Solution:
         ans = nums[0]
 
         for i in range(1,len(nums)):
+            prev_min = min_ending
+            prev_max = max_ending
+
             v1 = nums[i]
-            v2 = min_ending * nums[i]
-            v3 = max_ending * nums[i]
+            v2 = prev_min * nums[i]
+            v3 = prev_max * nums[i]
 
             max_ending = max(v1,v2,v3)
             min_ending = min(v1,v2,v3)
