@@ -25,6 +25,7 @@ To build a strong foundation in computer science fundamentals and write clean, e
 | [0287-find-the-duplicate-number](https://github.com/Prajwal18py/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Prajwal18py/DSA/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Prajwal18py/DSA/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prajwal18py/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal18py/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Prajwal18py/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Two Pointers
@@ -97,5 +98,18 @@ To build a strong foundation in computer science fundamentals and write clean, e
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Prajwal18py/DSA/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prajwal18py/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Prajwal18py/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prajwal18py/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prajwal18py/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prajwal18py/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
