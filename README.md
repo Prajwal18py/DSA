@@ -26,6 +26,7 @@ To build a strong foundation in computer science fundamentals and write clean, e
 | [0485-max-consecutive-ones](https://github.com/Prajwal18py/DSA/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Prajwal18py/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prajwal18py/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/Prajwal18py/DSA/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Prajwal18py/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Prajwal18py/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prajwal18py/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -83,6 +84,7 @@ To build a strong foundation in computer science fundamentals and write clean, e
 | [0424-longest-repeating-character-replacement](https://github.com/Prajwal18py/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Prajwal18py/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prajwal18py/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/Prajwal18py/DSA/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/Prajwal18py/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Prajwal18py/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
@@ -96,6 +98,7 @@ To build a strong foundation in computer science fundamentals and write clean, e
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prajwal18py/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prajwal18py/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0705-design-hashset](https://github.com/Prajwal18py/DSA/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Prajwal18py/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -126,6 +129,7 @@ To build a strong foundation in computer science fundamentals and write clean, e
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Prajwal18py/DSA/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/Prajwal18py/DSA/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -135,4 +139,8 @@ To build a strong foundation in computer science fundamentals and write clean, e
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Prajwal18py/DSA/tree/master/1603-design-parking-system) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Prajwal18py/DSA/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
