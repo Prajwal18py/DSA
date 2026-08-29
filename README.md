@@ -123,4 +123,16 @@ To build a strong foundation in computer science fundamentals and write clean, e
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prajwal18py/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Prajwal18py/DSA/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Prajwal18py/DSA/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Prajwal18py/DSA/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
