@@ -19,6 +19,7 @@ To build a strong foundation in computer science fundamentals and write clean, e
 | ------- |
 | [0015-3sum](https://github.com/Prajwal18py/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Prajwal18py/DSA/tree/master/0016-3sum-closest) |
+| [0057-insert-interval](https://github.com/Prajwal18py/DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Prajwal18py/DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Prajwal18py/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prajwal18py/DSA/tree/master/0209-minimum-size-subarray-sum) |
